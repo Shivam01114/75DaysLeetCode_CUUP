@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0326-power-of-three) |
