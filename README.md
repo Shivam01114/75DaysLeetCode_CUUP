@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0905-sort-array-by-parity](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0905-sort-array-by-parity) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
