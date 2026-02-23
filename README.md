@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
