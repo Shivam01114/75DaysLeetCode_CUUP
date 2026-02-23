@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0326-power-of-three) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
