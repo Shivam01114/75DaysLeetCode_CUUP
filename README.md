@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
 | ------- |
@@ -147,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
