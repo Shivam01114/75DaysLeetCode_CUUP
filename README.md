@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0412-fizz-buzz) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam01114/75DaysLeetCode_CUUP/tree/master/0232-implement-queue-using-stacks) |
 ## Design
